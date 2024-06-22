@@ -52,7 +52,7 @@ Software Developer
 
 
 ## Education
-**Bachelor of Engineering** |Electronics and Communication| South Gujarat University,  India | Date Graduated
+**Bachelor of Engineering** |Electronics and Communication| South Gujarat University,  India 
 ## CERTIFICATIONS
 -	AWS Developer Associate - Amazon
 -	Cisco Certified Network Associate Routing and Switching (CCNA) – Cisco
