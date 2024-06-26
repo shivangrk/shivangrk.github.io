@@ -1,5 +1,5 @@
 # Shivang Koshti
-Email: shivang.koshti@yahoo.com
+Email: shivang.koshti@yahoo.com\
 United Kingdom
 
 ## Summary
@@ -17,7 +17,7 @@ Demonstrated skills for 13 + years in developing and testing enterprise applicat
 
 
 ## Experience
-**JPMorgan Chase & Co** (Apr 2023 – Present)   
+**JPMorgan Chase & Co** (Apr 2023 – Present)\   
 Senior Software Engineer
 -	Delivered application for daily VDI(virtual desktops Citrix) utilization reporting across regions using FASTAPI, Kubernetes, Docker and Jenkins. And creating a visualization using Grafana/Prometheus.
 -	Contributed to the development of automation framework for SRE, emphasizing provisioning and managing VDI with the installation of base components.
