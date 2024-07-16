@@ -3,7 +3,7 @@ Email: shivang.koshti@yahoo.com\
 United Kingdom
 
 ## Summary
-Demonstrated skills for 13 + years in developing and testing enterprise applications across Banking & Finance, Equity Markets, Multimedia, Infrastructure, Networking, Security and Data- intensive applications. Proficient in various SDLC stages and tools, excelling in creating fully integrated applications. Successfully designed & delivered solutions, positively impacting a number of customers, contributing to increases profits.
+Demonstrated skills for 13 + years in developing and testing enterprise applications across Banking & Finance, Equity Markets, Multimedia, Infrastructure, Networking, Security and Data- intensive applications. Proficient in coding best practices and design patterns, code and data versioning, dependency management, code quality and optimisation, error handling, logging, monitoring, validation and alerting. Successfully designed & delivered solutions, impacting a number of customers, contributing to increased profits.
 
 ## Skills
 -	Programming languages: Python & have also worked in NodeJS, JavaScript, Java, shell scripting, SQL, and C.
@@ -14,7 +14,8 @@ Demonstrated skills for 13 + years in developing and testing enterprise applicat
 -	Understanding of CI/CD, Application Resiliency, and Security. Can create CI/CD pipelines using Jenkins and Urbancode.
 -	Developed applications implementing networking protocols (RIP, OSPF) and used Wireshark, Fiddler, and tcpdump for network testing.
 -	Hands-on practical experience in system design, application development, testing, SDLC, debugging, code maintenance and operational stability
-
+-	Strong problem-solving and analytical skills, with a keen attention to detail.
+- Strong communication and collaboration skills.
 
 ## Experience
 **JPMorgan Chase & Co** (Apr 2023 – Present)\   
@@ -27,7 +28,7 @@ Senior Software Engineer
 
 **Tata Consultancy Services** (Jul 2017 – Mar 2023)\
 Senior Consultant 
-- Utilizing Nodejs and Postman for API automation with JavaScript, incorporating BDD Cucumber and Junit5, and conducting UI automation using Cypress.
+- Utilizing Nodejs and Postman for API automation with JavaScript, incorporating BDD Cucumber and Junit5, and conducting UI automation using Cypress on a microservice architecture.
 - Creating an Automation framework with TestComplete and Python for desktop applications.
 -	Developing an Automation framework on AWS cloud for ETL applications.
 -	Developed on Hadoop ecosystem/Bigdata testing using PySpark, Hive, Spark, Python, SQL, and implementing end-to-end ETL automation 7 deploying DevOps with UrbanCode & Nexus.
